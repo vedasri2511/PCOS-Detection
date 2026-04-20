@@ -126,8 +126,3 @@ Below are sample outputs captured from the application during runtime.
 
 ---
 
-## Author
-
-- Tippana Samhitha – [GitHub](https://github.com/tsamhitha26)
-
----
